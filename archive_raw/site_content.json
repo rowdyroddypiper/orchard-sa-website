@@ -1,0 +1,130 @@
+{
+  "site": {
+    "name": "Orchard Strategic Advisors",
+    "title": "Orchard Strategic Advisors | Expertly Tailored Advisory",
+    "footer": "© 2023 Orchard Strategic Advisors"
+  },
+  "navigation": {
+    "main": [
+      {
+        "text": "Home",
+        "url": "/"
+      },
+      {
+        "text": "Who We Are",
+        "url": "#",
+        "children": [
+          {
+            "text": "About",
+            "url": "/about/"
+          },
+          {
+            "text": "Executive Team",
+            "url": "/leadership/"
+          },
+          {
+            "text": "Mission, Vision & Values",
+            "url": "/mission-vision-values/"
+          }
+        ]
+      },
+      {
+        "text": "What We Do",
+        "url": "#",
+        "children": [
+          {
+            "text": "Business Development & Advisory Services",
+            "url": "/structured-finance-advisory/"
+          },
+          {
+            "text": "Venture Capital Funding",
+            "url": "/business-development-investment/"
+          },
+          {
+            "text": "Property Investment",
+            "url": "/commercial-property-lending-investment/"
+          }
+        ]
+      },
+      {
+        "text": "Contact",
+        "url": "/contact/"
+      }
+    ]
+  },
+  "pages": {
+    "home": {
+      "title": "Orchard Strategic Advisors | Expertly Tailored Advisory",
+      "hero_slides": [
+        {
+          "title": "Expertly Tailored Advisory",
+          "subtitle": "Backed by Access to Capital",
+          "image": "homeImage1.jpg"
+        },
+        {
+          "title": "Experienced, Trusted Advisors",
+          "subtitle": "In Turning Possibility Into Reality",
+          "image": "homeImage2.jpg"
+        },
+        {
+          "title": "Strength, Flexibility & Endurance",
+          "subtitle": "For Long-Term Results",
+          "image": "homeImage3.jpg"
+        },
+        {
+          "title": "Strategy and Innovation",
+          "subtitle": "Backed By A Network Like No Other",
+          "image": "homeimage4.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Why Orchard Strategic Advisors?",
+          "content": "Because we will partner with you to determine the best way to move forward, with sound advice and strategic recommendations that work. We will help you take calculated risks to minimize the downside in your investment and maximize the potential of your venture. We will leverage our vast network of connections to help facilitate decision making that moves transactions forward."
+        },
+        {
+          "heading": "Wherever you want to go, we will help you get there.",
+          "services": [
+            {
+              "title": "Business Development & Advisory Services",
+              "url": "/structured-finance-advisory/"
+            },
+            {
+              "title": "Venture Capital Funding",
+              "url": "/business-development-investment/"
+            },
+            {
+              "title": "Property Investment",
+              "url": "/commercial-property-lending-investment/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "images": {
+    "hero": [
+      {
+        "name": "homeImage1.jpg",
+        "wayback_url": "https://web.archive.org/web/20230922223551im_/http://www.orchardsa.com/wp-content/uploads/2013/09/homeImage1.jpg",
+        "original_path": "wp-content/uploads/2013/09/homeImage1.jpg"
+      },
+      {
+        "name": "homeImage2.jpg",
+        "wayback_url": "https://web.archive.org/web/20230922223551im_/http://www.orchardsa.com/wp-content/uploads/2013/09/homeImage2.jpg",
+        "original_path": "wp-content/uploads/2013/09/homeImage2.jpg"
+      },
+      {
+        "name": "homeImage3.jpg",
+        "wayback_url": "https://web.archive.org/web/20230922223551im_/http://www.orchardsa.com/wp-content/uploads/2013/09/homeImage3.jpg",
+        "original_path": "wp-content/uploads/2013/09/homeImage3.jpg"
+      },
+      {
+        "name": "homeimage4.jpg",
+        "wayback_url": "https://web.archive.org/web/20230922223551im_/http://www.orchardsa.com/wp-content/uploads/2013/09/homeimage4.jpg",
+        "original_path": "wp-content/uploads/2013/09/homeimage4.jpg"
+      }
+    ]
+  }
+}
+

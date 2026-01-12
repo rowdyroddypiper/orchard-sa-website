@@ -1,0 +1,22 @@
+/* Import Google Fonts - Raleway */
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500,600,700');
+
+/* Use the original CSS from the archived site */
+@import url('original-style.css');
+
+/* Override image paths in the original CSS */
+.home .hentry {
+    background-image: url(/images/blue-transparent.png) !important;
+}
+
+#home-widgets .widget {
+    background-image: url(/images/blue-transparent.png) !important;
+}
+
+.home #colophon {
+    background-image: url(/images/footer-bg.png) !important;
+}
+
+.main-navigation ul ul li {
+    background-image: url(/images/blue-transparent.png) !important;
+}

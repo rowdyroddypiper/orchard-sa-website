@@ -1,0 +1,40 @@
+/*
+Theme Name: Orchard
+Theme URI: http://www.sagefrog.com/
+Author: Sagefrog Marketing Group, LLC
+Author URI: http://www.sagefrog.com
+Description: A custom WordPress theme developed for Orchard.
+Version: 1.0
+License: GNU General Public License
+License URI: license.txt
+Text Domain: orion
+Domain Path: /languages/
+Tags:
+*/
+
+/*
+ * This theme is base on the Orion v1.0 starter theme 
+ * created by Adam Balee @ http://adambalee.com/
+ */
+
+@import '//web.archive.org/web/20260112091314cs_/https://fonts.googleapis.com/css?family=Raleway:400,500,600,700';
+@import '/web/20260112091314cs_/https://www.orchardsa.com/wp-content/themes/orchard/sass/stylesheets/main.css';
+/*
+     FILE ARCHIVED ON 09:13:14 Jan 12, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:00:09 Jan 12, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.716
+  exclusion.robots: 0.022
+  exclusion.robots.policy: 0.011
+  esindex: 0.017
+  cdx.remote: 36.454
+  LoadShardBlock: 1219.722 (3)
+  PetaboxLoader3.datanode: 1179.18 (3)
+  load_resource: 623.928
+*/

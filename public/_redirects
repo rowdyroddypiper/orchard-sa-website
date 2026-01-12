@@ -1,0 +1,6 @@
+# Cloudflare Pages redirects
+# This file ensures proper routing for the static site
+
+# Redirect trailing slashes (optional, Cloudflare Pages handles this by default)
+/* /index.html 200
+

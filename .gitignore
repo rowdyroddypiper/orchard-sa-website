@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archive raw files (optional - you may want to keep these)
+# archive_raw/
+
+# Temporary files
+*.tmp
+*.log
+
