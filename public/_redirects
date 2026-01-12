@@ -1,4 +1,0 @@
-# Cloudflare Pages redirects
-# This file ensures proper routing for the static site
-# Cloudflare Pages automatically handles index.html routing, so no redirects needed
-
