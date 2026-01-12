@@ -1,6 +1,3 @@
-name = "orchard-sa-website"
-compatibility_date = "2026-01-12"
-
-[site]
-bucket = "./public"
+# wrangler.toml
+name = 'flat-snow-d0a8'
 
